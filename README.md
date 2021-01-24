@@ -1,7 +1,6 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Project - SageMaker Fake News Detector
-George Traskas  
-June 16th, 2020
+
 
 ## I. Definition
 The term ‘fake news’ regularly hits the headlines nowadays. Whether it is to do with political events or information on the various social platforms, it seems like it is getting harder and harder to know who to trust to be a reliable source of information. This project is about understanding of what is actually fake news and propose an efficient way to detect them using the latest machine learning and natural language process techniques.
